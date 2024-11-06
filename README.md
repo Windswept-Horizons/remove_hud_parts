@@ -1,5 +1,6 @@
 # remove_hud_parts
 Remove visual remnants such as ability cards and ammo for a cleaner hud!
+
 **DISCLAIMER:** 
 _Some pieces and parts I put together into one resource. 
 Can't recall where I obtained the different pieces, so I put no author and I'm taking no ownership.
